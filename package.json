@@ -1,0 +1,15 @@
+{
+  "name": "login_automation",
+  "version": "1.0.0",
+  "description": "Automated login tests with Cypress and Page Object Pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0"
+  }
+}
